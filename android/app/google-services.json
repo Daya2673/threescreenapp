@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182784139994",
+    "project_id": "fir-log-c7278",
+    "storage_bucket": "fir-log-c7278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182784139994:android:7f3164e06a8fe141e0bbe3",
+        "android_client_info": {
+          "package_name": "com.example.threescreenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182784139994-0mgko5s85hef8bes0qej9tmkookn1gs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAmrlm5JsiGsAeiekdmaKx7iNNk7KhxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182784139994-0mgko5s85hef8bes0qej9tmkookn1gs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
